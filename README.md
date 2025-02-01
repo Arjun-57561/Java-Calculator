@@ -15,7 +15,7 @@ A simple calculator program in Java that supports basic arithmetic, Fibonacci se
 ## Usage:
 Compile and run `Main.java`. Follow the on-screen menu to select operations.
 To compile you need to have java in your pc 
-Then go to command prompt 
-then run 'javac Main.java' -> This will compile the file and create a .class file
-#This .class file is the compiled file and it is sharable across different platforms
-Then run 'java Main' to run the file ..
+-Then go to command prompt 
+-Then run 'javac Main.java' -> This will compile the file and create a .class file
+-#This .class file is the compiled file and it is sharable across different platforms
+-Then run 'java Main' to run the file ..
