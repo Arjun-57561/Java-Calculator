@@ -19,3 +19,7 @@ To compile you need to have java in your pc
 -Then run 'javac Main.java' -> This will compile the file and create a .class file
 -#This .class file is the compiled file and it is sharable across different platforms
 -Then run 'java Main' to run the file ..
+## Files:
+- Then go to command prompt 
+- Then run 'javac Main.java' -> This will compile the file and create a .class file
+- Then run 'java Main' to run the file ..
