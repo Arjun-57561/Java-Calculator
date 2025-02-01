@@ -1,5 +1,5 @@
 # Java Calculator
--- Directly Comiited from GIT BASH -- 
+-- Directly Committed from GIT BASH -- 
 A simple calculator program in Java that supports basic arithmetic, Fibonacci sequence, and statistical operations.
 
 ## Features:
